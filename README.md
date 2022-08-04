@@ -1,1 +1,1 @@
-# MadLibs
+I created a site with three different original MadLibs using HTML, CSS and JavaScript. The user enters the appropriate parts of speech in input fields and clicks the submit button to create a custom MadLib with the entered words.
