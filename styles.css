@@ -1,0 +1,107 @@
+body {
+    font-family: 'Catamaran', sans-serif;
+    font-size: 16px;
+    background-color: rgb(6, 6, 49);
+    color: goldenrod;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Mouse Memoirs', sans-serif;
+    font-size: 6rem;
+    color: goldenrod;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Mouse Memoirs', sans-serif;
+    font-size: 4rem;
+    color: goldenrod;
+    text-align: center;
+}
+
+img {
+    height: 5rem;
+    width: auto;
+    padding-top: 5rem;
+    padding-left: 2rem;
+}
+
+nav ul li {
+    list-style-type: none;
+    display: inline-flex;
+    padding-left: 1rem;
+    font-size: 2rem;
+}
+
+nav ul li a:visited {
+    color: white;
+}
+
+#pageheading {
+    height: 120px;
+    display: inline-flex;
+    align-content: space-around;
+    align-items: stretch;
+}
+
+p {
+    font-size: 1.5rem;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+span {
+    text-decoration: underline;
+}
+
+#options ul li {
+    list-style-type: none;
+    display: inline-flex;
+    padding-left: 1rem;
+    font-size: 2rem;
+
+}
+
+#options ul li a:visited {
+    color: white;
+}
+
+#ml1words li {
+    list-style-type: none;
+    font-size: 1.5rem;
+}
+
+#madlib1 {
+    display: none;
+}
+
+#ml2words li {
+    list-style-type: none;
+    font-size: 1.5rem;
+}
+
+#madlib2 {
+    display: none;
+}
+
+#ml3words li {
+    list-style-type: none;
+    font-size: 1.5rem;
+}
+
+#madlib3 {
+    display: none;
+}
+
+button {
+    background-color: white;
+    border-radius: 30px;
+    height: 3rem;
+    width: 6rem;
+}
+
+footer {
+    text-align: center;
+    padding-top: 4rem;
+}
